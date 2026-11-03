@@ -1,3 +1,4 @@
 # new-demo
-This is my first git repository
-Author _ Bashant Kc 
+This is my first git repository.
+<br>
+Author-Bashant Kc 
